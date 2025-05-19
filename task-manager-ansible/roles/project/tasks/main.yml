@@ -1,0 +1,4 @@
+- name: Run docker-compose up
+  shell: docker-compose up -d
+  args:
+    chdir: /mnt/c/Users/Sakina Baranwala/IdeaProjects/Smart-Task-Management-System-2/Smart-Task-Management-System
